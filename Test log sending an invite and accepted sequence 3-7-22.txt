@@ -1,0 +1,149 @@
+3/7/2022 3:31:04 PM ItemChange Type: AppointmentItem
+3/7/2022 3:31:22 PM ItemChange Type: AppointmentItem
+3/7/2022 3:31:22 PM ItemChange Type: AppointmentItem
+
+=== My Invite sent ===
+3/7/2022 4:19:15 PM App ItemSend:
+3/7/2022 4:19:15 PM Projects or clients found in Subject
+3/7/2022 4:19:15 PM On send, type: MeetingItem Organized by: /o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=18130b25da1e419f96d78b9de498049d-Reta, Felix
+Subject: 505017 Camis Need strategy for pending work
+3/7/2022 4:19:15 PM at ProcessApt From ItemSend ?
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+3/7/2022 4:19:16 PM curCal_ItemAdd AppointmentItem Subject: 505017 Camis Need strategy for pending work
+3/7/2022 4:19:18 PM ItemChange Type: AppointmentItem
+3/7/2022 4:19:33 PM ItemChange Type: AppointmentItem
+3/7/2022 4:21:21 PM ItemChange Type: AppointmentItem
+3/7/2022 4:22:49 PM ItemChange Type: AppointmentItem
+
+=== My appointment accepted ===
+3/7/2022 4:22:50 PM Inbox ItemAdd Type: MeetingItem-Subject: Accepted: 505017 Camis Need strategy for pending work
+505017
+3/7/2022 4:22:50 PM Project/Client found on subject: 
+505017
+3/7/2022 4:22:50 PM Inbox-MeetingItem request arrived 
+Message Class: IPM.Schedule.Meeting.Resp.Pos
+3/7/2022 4:22:50 PM Meeting Subject is: Accepted: 505017 Camis Need strategy for pending work
+Meeting Body is:  
+Appointment data: Start: 3/9/2022 2:00:00 PM
+End: 3/9/2022 2:30:00 PM
+Subject, Body: Accepted: 505017 Camis Need strategy for pending work Good afternoon Lori,
+
+ 
+
+Per your email last week, we need to strategize Camis’ pending Optimization workshop, we’d like to have your direction before I schedule the customer facing meeting.
+
+ 
+
+Regards,
+
+________________________________________________________________________________ 
+
+Microsoft Teams meeting 
+
+Join on your computer or mobile app 
+
+Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmEzMWY0NDAtNDhiOC00M2Q0LTkyZjUtOTY2OGJiMWU2NDVj%40thread.v2/0?context=%7b%22Tid%22%3a%22e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c%22%2c%22Oid%22%3a%2235ba4f1a-b9bb-4931-9ada-bd066190bfaa%22%7d>  
+
+Or call in (audio only) 
+
++1 816-482-9417,,901223393# <tel:+18164829417,,901223393#>    United States, Kansas City 
+
+Phone Conference ID: 901 223 393# 
+
+Find a local number <https://dialin.teams.microsoft.com/e8511ef3-cf7d-449a-8cb3-1161a32b1de2?id=901223393>  | Reset PIN <https://mysettings.lync.com/pstnconferencing>  
+
+ <https://www.aspect.com/globalassets/hidden-files/email-signature/alvaria-logo-for-email-signature.png> 
+
+Learn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=35ba4f1a-b9bb-4931-9ada-bd066190bfaa&tenantId=e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c&threadId=19_meeting_ZmEzMWY0NDAtNDhiOC00M2Q0LTkyZjUtOTY2OGJiMWU2NDVj@thread.v2&messageId=0&language=en-US>  
+
+________________________________________________________________________________ 
+
+ 
+
+3/7/2022 4:22:50 PM at ProcessApt from Inbox
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+Non recurring appointment
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60750000 Meeting Status at: from Inbox is: 1
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60750000 Meeting Response Status at: from Inbox is: Appointment Scheduled-Organized
+
+
+3/7/2022 4:23:00 PM App ItemSend:
+3/7/2022 4:23:00 PM Projects or clients found in Subject
+3/7/2022 4:27:14 PM App ItemSend:
+3/7/2022 4:27:14 PM Projects or clients found in Subject
+3/7/2022 4:27:14 PM On send, type: MeetingItem Organized by: /o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=18130b25da1e419f96d78b9de498049d-Reta, Felix
+Subject: 505453 - United Biosource LLC : 505453 United BioSource Corp. Level set
+3/7/2022 4:27:14 PM at ProcessApt From ItemSend ?
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+3/7/2022 4:27:15 PM curCal_ItemAdd AppointmentItem Subject: 505453 - United Biosource LLC : 505453 United BioSource Corp. Level set
+3/7/2022 4:27:35 PM ItemChange Type: AppointmentItem
+3/7/2022 4:27:42 PM ItemChange Type: AppointmentItem
+3/7/2022 4:29:47 PM ItemChange Type: AppointmentItem
+3/7/2022 4:39:30 PM ItemChange Type: AppointmentItem
+3/7/2022 4:39:32 PM Inbox ItemAdd Type: MeetingItem-Subject: Accepted: 505453 - United Biosource LLC : 505453 United BioSource Corp. Level set
+505453
+3/7/2022 4:39:32 PM Project/Client found on subject: 
+505453
+505453
+3/7/2022 4:39:32 PM Project/Client found on subject: 
+505453
+3/7/2022 4:39:32 PM Inbox-MeetingItem request arrived 
+Message Class: IPM.Schedule.Meeting.Resp.Pos
+3/7/2022 4:39:32 PM Meeting Subject is: Accepted: 505453 - United Biosource LLC : 505453 United BioSource Corp. Level set
+Meeting Body is:  
+Appointment data: Start: 3/8/2022 3:00:00 PM
+End: 3/8/2022 3:30:00 PM
+Subject, Body: Accepted: 505453 - United Biosource LLC : 505453 United BioSource Corp. Level set Good afternoon Roman,
+
+ 
+
+We will appreciate your time to level set this project. From our analysis, the 5/9 feed is still outstanding, and the workshop mentioned in your handoff. Additionally, we couldn’t find the BAC request you mentioned to the customer.
+
+ 
+
+Best regards,
+
+________________________________________________________________________________ 
+
+Microsoft Teams meeting 
+
+Join on your computer or mobile app 
+
+Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTY5OGIwMTctODBjOC00Y2QxLWJlZDgtMzRmNDA4ZGQ5OWYx%40thread.v2/0?context=%7b%22Tid%22%3a%22e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c%22%2c%22Oid%22%3a%2235ba4f1a-b9bb-4931-9ada-bd066190bfaa%22%7d>  
+
+Or call in (audio only) 
+
++1 816-482-9417,,274976149# <tel:+18164829417,,274976149#>    United States, Kansas City 
+
+Phone Conference ID: 274 976 149# 
+
+Find a local number <https://dialin.teams.microsoft.com/e8511ef3-cf7d-449a-8cb3-1161a32b1de2?id=274976149>  | Reset PIN <https://mysettings.lync.com/pstnconferencing>  
+
+ <https://www.aspect.com/globalassets/hidden-files/email-signature/alvaria-logo-for-email-signature.png> 
+
+Learn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=35ba4f1a-b9bb-4931-9ada-bd066190bfaa&tenantId=e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c&threadId=19_meeting_ZTY5OGIwMTctODBjOC00Y2QxLWJlZDgtMzRmNDA4ZGQ5OWYx@thread.v2&messageId=0&language=en-US>  
+
+________________________________________________________________________________ 
+
+ 
+
+3/7/2022 4:39:32 PM at ProcessApt from Inbox
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+Non recurring appointment
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60760000 Meeting Status at: from Inbox is: 1
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60760000 Meeting Response Status at: from Inbox is: Appointment Scheduled-Organized
+3/7/2022 4:40:49 PM App ItemSend:
+3/7/2022 4:40:49 PM Projects or clients found in Subject
+

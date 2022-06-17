@@ -1,0 +1,60 @@
+Public WithEvents outApp As Outlook.Application
+
+Sub Intialize_Handler()
+    Set outApp = Application
+End Sub
+
+Private Sub outApp_NewMailEx(ByVal EntryIDCollection As String)
+    Dim mai As Object
+    Dim intInitial As Integer
+    Dim intFinal As Integer
+    Dim strEntryId As String
+    Dim intLength As Integer
+    
+    intInitial = 1
+    intLength = Len(EntryIDCollection)
+    MsgBox "Collection of EntryIds: " & EntryIDCollection
+    intFinal = InStr(intInitial, EntryIDCollection, ",")
+    Do While intFinal <> 0
+        strEntryId = Strings.Mid(EntryIDCollection, intInitial, (intFinal - intInitial))
+        MsgBox "EntryId: " & strEntryId
+        Set mai = Application.Session.GetItemFromID(strEntryId)
+        MsgBox mai.Subject
+        intInitial = intFinal + 1
+        intFinal = InStr(intInitial, EntryIDCollection, ",")
+    Loop
+    strEntryId = Strings.Mid(EntryIDCollection, intInitial, (intLength - intInitial) + 1)
+    MsgBox strEntryId
+    Set mai = Application.Session.GetItemFromID(strEntryId)
+    MsgBox mai.Subject
+
+End Sub
+
+OR USING NEWMAIL EVENT:
+
+Public WithEvents myOlApp As Outlook.Application
+
+Sub Initialize_handler()
+    Set myOlApp = CreateObject("Outlook.Application")
+End Sub
+
+Private Sub myOlApp_NewMail()
+    Dim myExplorers As Outlook.Explorers
+    Dim myFolder As Outlook.MAPIFolder
+    Dim x As Integer
+    Set myExplorers = myOlApp.Explorers
+    Set myFolder = myOlApp.GetNamespace("MAPI").GetDefaultFolder(olFolderInbox)
+    If myExplorers.Count <> 0 Then
+        For x = 1 To myExplorers.Count
+            On Error GoTo skipif
+            If myExplorers.Item(x).CurrentFolder.Name = "Inbox" Then
+                myExplorers.Item(x).Display
+                myExplorers.Item(x).Activate
+                Exit Sub
+            End If
+skipif:
+        Next x
+     End If
+     On Error GoTo 0
+     myFolder.Display
+End Sub

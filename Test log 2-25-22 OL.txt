@@ -1,0 +1,45 @@
+TEST ON FRI 2/25 PM
+
+curCal_ItemAdd
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+DeletedItems ItemAdd type: MeetingItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+InboxADD ItemChange Type: MeetingItem
+Inbox Meeting request item arrived
+Meeting Subject is: Build WBS
+Meeting Body is: WBS being revised
+Accept proposal
+
+________________________________________________________________________________ 
+Microsoft Teams meeting 
+Join on your computer or mobile app 
+Click here to join the meeting <https://protect-us.mimecast.com/s/8x_yC82zXOTrgvXmSn7v_c?domain=teams.microsoft.com>  
+Learn More <https://protect-us.mimecast.com/s/mArpC9rA3Ou1j3zJtEAw5c?domain=aka.ms>  | Meeting options <https://protect-us.mimecast.com/s/nEPAC0RoAOF8zoknS2oix7?domain=teams.microsoft.com>  
+________________________________________________________________________________ 
+Appointment data: Start: 3/1/2022 3:30:00 PM
+End: 3/1/2022 4:00:00 PM
+Subject, Body: Build WBS WBS being revised
+Accept proposal
+
+________________________________________________________________________________ 
+Microsoft Teams meeting 
+Join on your computer or mobile app 
+Click here to join the meeting <https://protect-us.mimecast.com/s/8x_yC82zXOTrgvXmSn7v_c?domain=teams.microsoft.com>  
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+Learn More <https://protect-us.mimecast.com/s/mArpC9rA3Ou1j3zJtEAw5c?domain=aka.ms>  | Meeting options <https://protect-us.mimecast.com/s/nEPAC0RoAOF8zoknS2oix7?domain=teams.microsoft.com>  
+________________________________________________________________________________ 
+
+FOLLOWING HAPPENS WHEN ACCEPTING
+
+ItemChange Type: AppointmentItem
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+curCal_ItemAdd
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+DeletedItems ItemAdd type: MeetingItemItemChange Type: AppointmentItem  
+
+

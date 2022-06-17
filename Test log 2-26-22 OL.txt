@@ -1,0 +1,145 @@
+Log for OL 2.26.22
+
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+DeletedItems ItemAdd type: MailItem
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+ItemChange Type: AppointmentItem
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+
+OBSERVED AFTER RECEIVING A RESCHEDULE REQUEST FROM GM
+
+curCal_ItemAdd
+InboxADD ItemChange Type: MeetingItem
+Inbox Meeting request item arrived
+Meeting Subject is: Updated invitation with note: Timesheets @ Fri Feb 25, 2022 6:15pm - 6:45pm (EST) (felix.reta@alvaria.com)
+Meeting Body is: WARNING: This email originated outside of Alvaria.
+InboxADD ItemChange Type: MailItem
+not an Meeting item, ignored
+DO NOT CLICK links or attachments unless you trust the sender and know the content is safe.
+
+________________________________
+
+
+This event has been changed with this note:
+"Updated today"
+
+
+Timesheets
+
+When
+Changed: Fri Feb 25, 2022 6:15pm – 6:45pm Eastern Time - New York
+Joining info
+Join with Google Meet
+    meet.google.com/kvj-niuo-yep <https://protect-us.mimecast.com/s/23sGCW6KWmTk8lw1i6pE5k?domain=meet.google.com>  
+        
+    Join by phone
+    (US) +1 567-307-4390 <tel:+1-567-307-4390;529952563#>  (PIN: 529952563)
+        
+    More phone numbers <https://protect-us.mimecast.com/s/q6_PCXDXYnsJZp7lHVu82l?domain=tel.meet> 
+Calendar
+felix.reta@alvaria.com
+Who
+•
+freta@stones.pw
+- organizer
+•
+felix.reta@alvaria.com
+more details » <https://protect-us.mimecast.com/s/pdz3CYEYV0h8XGoKc9eNfJ?domain=calendar.google.com> 
+ItemChange Type: AppointmentItem
+
+
+Going (felix.reta@alvaria.com)?   
+Yes <https://protect-us.mimecast.com/s/I5y5C2kqGOtjQnoLsM69dy?domain=calendar.google.com>  - 
+Maybe <https://protect-us.mimecast.com/s/HK58C31rYOUBvLYjtYWIZ5?domain=calendar.google.com>  - 
+No <https://protect-us.mimecast.com/s/fAFtC4xvW4FoxLAZUNY1eo?domain=calendar.google.com>     more options » <https://protect-us.mimecast.com/s/pdz3CYEYV0h8XGoKc9eNfJ?domain=calendar.google.com> 
+
+Invitation from Google Calendar <https://protect-us.mimecast.com/s/REMWCZ6GZpTGYOn1Hy-4Wl?domain=calendar.google.com/> 
+
+You are receiving this courtesy email at the account felix.reta@alvaria.com because you are an attendee of this event.
+
+To stop receiving future updates for this event, decline this event. Alternatively you can sign up for a Google account at https://calendar.google.com/calendar/ <https://protect-us.mimecast.com/s/REMWCZ6GZpTGYOn1Hy-4Wl?domain=calendar.google.com/>  and control your notification settings for your entire calendar.
+
+Forwarding this invitation could allow any recipient to send a response to the organizer and be added to the guest list, or invite others regardless of their own invitation status, or to modify your RSVP. Learn More <https://protect-us.mimecast.com/s/HknEC1wpVQURXvwrfYOX21?domain=support.google.com> .
+
+Appointment data: Start: 2/25/2022 6:15:00 PM
+End: 2/25/2022 6:45:00 PM
+Subject, Body: Timesheets WARNING: This email originated outside of Alvaria.
+DO NOT CLICK links or attachments unless you trust the sender and know the content is safe.
+
+________________________________
+
+
+This event has been changed with this note:
+"Updated today"
+
+
+Timesheets
+
+When
+Changed: Fri Feb 25, 2022 6:15pm – 6:45pm Eastern Time - New York
+Joining info
+Join with Google Meet
+    meet.google.com/kvj-niuo-yep <https://protect-us.mimecast.com/s/23sGCW6KWmTk8lw1i6pE5k?domain=meet.google.com>  
+        
+    Join by phone
+    (US) +1 567-307-4390 <tel:+1-567-307-4390;529952563#>  (PIN: 529952563)
+        
+    More phone numbers <https://protect-us.mimecast.com/s/q6_PCXDXYnsJZp7lHVu82l?domain=tel.meet> 
+Calendar
+felix.reta@alvaria.com
+Who
+•
+freta@stones.pw
+- organizer
+•
+felix.reta@alvaria.com
+more details » <https://protect-us.mimecast.com/s/pdz3CYEYV0h8XGoKc9eNfJ?domain=calendar.google.com> 
+
+
+Going (felix.reta@alvaria.com)?   
+Yes <https://protect-us.mimecast.com/s/I5y5C2kqGOtjQnoLsM69dy?domain=calendar.google.com>  - 
+Maybe <https://protect-us.mimecast.com/s/HK58C31rYOUBvLYjtYWIZ5?domain=calendar.google.com>  - 
+No <https://protect-us.mimecast.com/s/fAFtC4xvW4FoxLAZUNY1eo?domain=calendar.google.com>     more options » <https://protect-us.mimecast.com/s/pdz3CYEYV0h8XGoKc9eNfJ?domain=calendar.google.com> 
+
+Invitation from Google Calendar <https://protect-us.mimecast.com/s/REMWCZ6GZpTGYOn1Hy-4Wl?domain=calendar.google.com/> 
+
+You are receiving this courtesy email at the account felix.reta@alvaria.com because you are an attendee of this event.
+
+To stop receiving future updates for this event, decline this event. Alternatively you can sign up for a Google account at https://calendar.google.com/calendar/ <https://protect-us.mimecast.com/s/REMWCZ6GZpTGYOn1Hy-4Wl?domain=calendar.google.com/>  and control your notification settings for your entire calendar.
+
+Forwarding this invitation could allow any recipient to send a response to the organizer and be added to the guest list, or invite others regardless of their own invitation status, or to modify your RSVP. Learn More <https://protect-us.mimecast.com/s/HknEC1wpVQURXvwrfYOX21?domain=support.google.com> .
+
+from Inbox
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 144EC9110000 Meeting Status at: from Inbox is: 3
+Non recurring appointment
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 144EC9110000 Meeting Response Status at: from Inbox is: Meeting Received-Not responded
+ItemChange Type: AppointmentItem
+

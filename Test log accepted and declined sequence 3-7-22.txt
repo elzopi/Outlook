@@ -1,0 +1,270 @@
+________________________________________________________________________________ 
+
+ 
+
+Appointment status: 1
+3/9/2022 8:25:48 AM at ProcessApt from Inbox
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+Non recurring appointment
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60790000 Meeting Status at: from Inbox is: 1
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60790000 Meeting Response Status at: from Inbox is: Appointment Scheduled-Organized
+3/9/2022 8:25:51 AM Inbox ItemAdd Type: MailItem-Subject: RE: UNIFIED IP™ SCREEN POP APPLICATION FOR SAGENT SOW [505898]
+505898
+3/9/2022 8:25:51 AM Project/Client found on subject: 
+505898
+3/9/2022 8:25:51 AM not an Meeting item, ignored
+3/9/2022 8:25:51 AM Inbox ItemAdd Type: MeetingItem-Subject: Accepted: Kick off development for UNIFIED IP™ SCREEN POP APPLICATION FOR SAGENT [505898] Adjusted to client MT
+505898
+3/9/2022 8:25:51 AM Project/Client found on subject: 
+505898
+3/9/2022 8:25:51 AM Inbox-MeetingItem request arrived 
+Message Class: IPM.Schedule.Meeting.Resp.Pos
+3/9/2022 8:25:51 AM Meeting Subject is: Accepted: Kick off development for UNIFIED IP™ SCREEN POP APPLICATION FOR SAGENT [505898] Adjusted to client MT
+Meeting Body is:  
+
+Appointment data: Start: 3/14/2022 12:30:00 PM
+End: 3/14/2022 1:00:00 PM
+Subject, Body: Accepted: Kick off development for UNIFIED IP™ SCREEN POP APPLICATION FOR SAGENT [505898] Adjusted to client MT Good afternoon,
+
+ 
+
+We will be kicking off our Development effort for ComputerShare.
+
+ 
+
+Agenda
+
+ 
+
+*   Introductions
+*   Review Deliverables
+*   Brainstorm tasks, WBS
+*   Next steps
+
+ 
+
+Best Regards,
+
+ 
+
+Felix Reta, PMP®
+
+Project manager, consultant – Professional Services
+
++1 407.454.5352 work
+
++1 830.554-9618 mobile
+
+felix.reta@ALVARIA.COM <mailto:felix.reta@ALVARIA.COM> 
+
+
+
+ 
+
+ 
+
+________________________________________________________________________________ 
+
+Microsoft Teams meeting 
+
+Join on your computer or mobile app 
+
+Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2Y3Nzk5NjYtMjg5NC00NGIxLTk1MWEtNTExNjg1ODhlNGFh%40thread.v2/0?context=%7b%22Tid%22%3a%22e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c%22%2c%22Oid%22%3a%2235ba4f1a-b9bb-4931-9ada-bd066190bfaa%22%7d>  
+
+Or call in (audio only) 
+
++1 816-482-9417,,461630679# <tel:+18164829417,,461630679#>    United States, Kansas City 
+
+Phone Conference ID: 461 630 679# 
+
+Find a local number <https://dialin.teams.microsoft.com/e8511ef3-cf7d-449a-8cb3-1161a32b1de2?id=461630679>  | Reset PIN <https://mysettings.lync.com/pstnconferencing>  
+
+ <https://www.aspect.com/globalassets/hidden-files/email-signature/alvaria-logo-for-email-signature.png> 
+
+Learn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=35ba4f1a-b9bb-4931-9ada-bd066190bfaa&tenantId=e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c&threadId=19_meeting_Y2Y3Nzk5NjYtMjg5NC00NGIxLTk1MWEtNTExNjg1ODhlNGFh@thread.v2&messageId=0&language=en-US>  
+
+________________________________________________________________________________ 
+
+ 
+
+Appointment status: 1
+3/9/2022 8:25:51 AM at ProcessApt from Inbox
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+Non recurring appointment
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60790000 Meeting Status at: from Inbox is: 1
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60790000 Meeting Response Status at: from Inbox is: Appointment Scheduled-Organized
+3/9/2022 8:27:28 AM curCal_ItemAdd AppointmentItem Subject: Efrain RS
+3/9/2022 8:27:30 AM ItemChange Type: AppointmentItem
+3/9/2022 8:29:33 AM ItemChange Type: AppointmentItem
+3/9/2022 8:46:50 AM Inbox ItemAdd Type: MailItem-Subject: Your Daily Digest from Datadog
+3/9/2022 8:46:50 AM No project/client digits identified on this item
+3/9/2022 8:46:50 AM not an Meeting item, ignored
+3/9/2022 8:49:32 AM ItemChange Type: AppointmentItem
+3/9/2022 8:49:34 AM Inbox ItemAdd Type: MeetingItem-Subject: Tentative: Kick off development for UNIFIED IP™ SCREEN POP APPLICATION FOR SAGENT [505898] Adjusted to client MT
+505898
+3/9/2022 8:49:34 AM Project/Client found on subject: 
+505898
+3/9/2022 8:49:34 AM Inbox-MeetingItem request arrived 
+Message Class: IPM.Schedule.Meeting.Resp.Tent
+3/9/2022 8:49:34 AM Meeting Subject is: Tentative: Kick off development for UNIFIED IP™ SCREEN POP APPLICATION FOR SAGENT [505898] Adjusted to client MT
+Meeting Body is:  
+
+Appointment data: Start: 3/14/2022 12:30:00 PM
+End: 3/14/2022 1:00:00 PM
+Subject, Body: Tentative: Kick off development for UNIFIED IP™ SCREEN POP APPLICATION FOR SAGENT [505898] Adjusted to client MT Good afternoon,
+
+ 
+
+We will be kicking off our Development effort for ComputerShare.
+
+ 
+
+Agenda
+
+ 
+
+*   Introductions
+*   Review Deliverables
+*   Brainstorm tasks, WBS
+*   Next steps
+
+ 
+
+Best Regards,
+
+ 
+
+Felix Reta, PMP®
+
+Project manager, consultant – Professional Services
+
++1 407.454.5352 work
+
++1 830.554-9618 mobile
+
+felix.reta@ALVARIA.COM <mailto:felix.reta@ALVARIA.COM> 
+
+
+
+ 
+
+ 
+
+________________________________________________________________________________ 
+
+Microsoft Teams meeting 
+
+Join on your computer or mobile app 
+
+Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2Y3Nzk5NjYtMjg5NC00NGIxLTk1MWEtNTExNjg1ODhlNGFh%40thread.v2/0?context=%7b%22Tid%22%3a%22e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c%22%2c%22Oid%22%3a%2235ba4f1a-b9bb-4931-9ada-bd066190bfaa%22%7d>  
+
+Or call in (audio only) 
+
++1 816-482-9417,,461630679# <tel:+18164829417,,461630679#>    United States, Kansas City 
+
+Phone Conference ID: 461 630 679# 
+
+Find a local number <https://dialin.teams.microsoft.com/e8511ef3-cf7d-449a-8cb3-1161a32b1de2?id=461630679>  | Reset PIN <https://mysettings.lync.com/pstnconferencing>  
+
+ <https://www.aspect.com/globalassets/hidden-files/email-signature/alvaria-logo-for-email-signature.png> 
+
+Learn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=35ba4f1a-b9bb-4931-9ada-bd066190bfaa&tenantId=e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c&threadId=19_meeting_Y2Y3Nzk5NjYtMjg5NC00NGIxLTk1MWEtNTExNjg1ODhlNGFh@thread.v2&messageId=0&language=en-US>  
+
+________________________________________________________________________________ 
+
+ 
+
+Appointment status: 1
+3/9/2022 8:49:34 AM at ProcessApt from Inbox
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+Non recurring appointment
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60790000 Meeting Status at: from Inbox is: 1
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60790000 Meeting Response Status at: from Inbox is: Appointment Scheduled-Organized
+3/9/2022 8:51:13 AM DeletedItems ItemAdd type: MailItem
+
+Datos de XML: felix.reta@gmail.com Alvaria
+3/8/2022 6:19:01 PM ItemChange Type: AppointmentItem
+3/8/2022 6:19:01 PM ItemChange Type: AppointmentItem
+3/8/2022 6:19:04 PM ItemChange Type: AppointmentItem
+3/8/2022 6:19:05 PM ItemChange Type: AppointmentItem
+3/8/2022 6:19:14 PM ItemChange Type: AppointmentItem
+
+3/9/2022 11:42:39 AM Inbox ItemAdd Type: MailItem-Subject: RE: PM unassigned 03082022.xlsx
+030820
+3/9/2022 11:42:39 AM Project/Client found on subject: 
+030820
+3/9/2022 11:42:39 AM not an Meeting item, ignored
+3/9/2022 12:20:32 PM App ItemSend:
+3/9/2022 1:04:24 PM ItemChange Type: AppointmentItem
+3/9/2022 1:04:25 PM Inbox ItemAdd Type: MeetingItem-Subject: Declined: 505017 Camis Need strategy for pending work
+505017
+3/9/2022 1:04:25 PM Project/Client found on subject: 
+505017
+3/9/2022 1:04:25 PM Inbox-MeetingItem request arrived 
+Message Class: IPM.Schedule.Meeting.Resp.Neg
+3/9/2022 1:04:25 PM Meeting Subject is: Declined: 505017 Camis Need strategy for pending work
+Meeting Body is: i have a dr apt at this time
+Appointment data: Start: 3/9/2022 2:00:00 PM
+End: 3/9/2022 2:30:00 PM
+Subject, Body: Declined: 505017 Camis Need strategy for pending work Good afternoon Lori,
+
+ 
+
+Per your email last week, we need to strategize Camis’ pending Optimization workshop, we’d like to have your direction before I schedule the customer facing meeting.
+
+ 
+
+I am adding your guidance as time permits for:
+
+ 
+
+504133 HGS. BAC hours are unused, no contact with customer since last year, Multi-Channel was only remaining work, never scheduled. Goal would be to avoid rebooking. No PM hours left, WBS indicated 307 hours, Netsuite indicates 242.5 thus farm 64.5 left out of which 27.5 are BAC for ~24 hours of 3 day workshop.
+
+ 
+
+Regards,
+
+________________________________________________________________________________ 
+
+Microsoft Teams meeting 
+
+Join on your computer or mobile app 
+
+Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmEzMWY0NDAtNDhiOC00M2Q0LTkyZjUtOTY2OGJiMWU2NDVj%40thread.v2/0?context=%7b%22Tid%22%3a%22e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c%22%2c%22Oid%22%3a%2235ba4f1a-b9bb-4931-9ada-bd066190bfaa%22%7d>  
+
+Or call in (audio only) 
+
++1 816-482-9417,,901223393# <tel:+18164829417,,901223393#>    United States, Kansas City 
+
+Phone Conference ID: 901 223 393# 
+
+Find a local number <https://dialin.teams.microsoft.com/e8511ef3-cf7d-449a-8cb3-1161a32b1de2?id=901223393>  | Reset PIN <https://mysettings.lync.com/pstnconferencing>  
+
+ <https://www.aspect.com/globalassets/hidden-files/email-signature/alvaria-logo-for-email-signature.png> 
+
+Learn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=35ba4f1a-b9bb-4931-9ada-bd066190bfaa&tenantId=e3aaf2f0-9a4f-4ac3-ad95-aa3083a66e4c&threadId=19_meeting_ZmEzMWY0NDAtNDhiOC00M2Q0LTkyZjUtOTY2OGJiMWU2NDVj@thread.v2&messageId=0&language=en-US>  
+
+________________________________________________________________________________ 
+
+ 
+
+Appointment status: 1
+3/9/2022 1:04:25 PM at ProcessApt from Inbox
+Alvaria
+felix.reta@gmail.com
+environ: C:\Users\freta
+Datos de XML: felix.reta@gmail.com Alvaria
+Non recurring appointment
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60750000 Meeting Status at: from Inbox is: 1
+freta-Reta, Felix [C]-FRETA-5410-Item Entry ID: 080F60750000 Meeting Response Status at: from Inbox is: Appointment Scheduled-Organized
+3/9/2022 1:15:51 PM ItemChange Type: AppointmentItem
+
